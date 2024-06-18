@@ -24,6 +24,7 @@ plugins:
 url: ''
 baseurl: ''
 title: 'Southampton Geospatial'
+organisation: 'The University of Southampton'
 description: ''
 permalink: pretty
 logo: 
