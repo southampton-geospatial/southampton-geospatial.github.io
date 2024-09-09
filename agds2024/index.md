@@ -60,12 +60,14 @@ Slides and other materials
 <tr>
 <td height="21">09:30 - 10:30</td>
 <td rowspan="3">B44 (1057)</td>
-<td width="485">Introduction to AI&nbsp;</td>
+<td width="485">Introduction to AI <br> 
+<a href="assets/adam.pdf">Adams's slides</a></td>
 <td>Jonathon Hare, Adam Prugel-Bennett</td>
 </tr>
 <tr>
 <td height="21">10:30 - 11:30</td>
-<td width="485">Geospatial AI</td>
+<td width="485">Geospatial ML <br>
+<a href="assets/geospatial-ml.pdf">Jons's slides</a></td>
 <td>Jonathon Hare, Adam Prugel-Bennett</td>
 </tr>
 <tr>
