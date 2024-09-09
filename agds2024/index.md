@@ -80,7 +80,8 @@ Slides and other materials
 <tr>
 <td width="91" height="45">13:30 - 16:30</td>
 <td>B44 (1061)</td>
-<td width="485">Research Showcase </td>
+<td width="485">Research Showcase: <br/>
+	<a href="assets/Research_showcase_Summer_School_on_Advances_Geospatial_HP.pdf">Hugo's slides</a> <br/></td>
 <td width="281">Daniela Rivera Marin (online), Cal Pols, <br /> Hugo Putuhena, Chris Emberson</td>
 </tr>
 <tr>
