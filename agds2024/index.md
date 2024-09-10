@@ -16,7 +16,7 @@ Slides and other materials
 <tr>
 <td height="21">09:10 - 09:30</td>
 <td rowspan="4">B44 (1057)</td>
-<td>Welcome and overview <br> <a href="Southampton_Geospatial_first_summer_school.pdf">slides</a></td>
+<td>Welcome and overview (<a href="Southampton_Geospatial_first_summer_school.pdf">slides</a>)</td>
 <td>Jadu Dash</td>
 </tr>
 <tr>
@@ -26,12 +26,12 @@ Slides and other materials
 </tr>
 <tr>
 <td height="21">10:30 - 11:30</td>
-<td>Mobile phones data <br> <a href="Slides_Mobile phone data for measuring mobility_Lai S.pdf">slides</a></td>
+<td>Mobile phones data (<a href="Slides_Mobile phone data for measuring mobility_Lai S.pdf">slides</a>)</td>
 <td>Shengjie Lai&nbsp;</td>
 </tr>
 <tr>
 <td height="21">11:30 - 12:30</td>
-<td>Earth Observation data <br> <a href="Satellite_Earth_Observation_Booker.pdf">slides</a></td>
+<td>Earth Observation data (<a href="Satellite_Earth_Observation_Booker.pdf">slides</a>)</td>
 <td>Booker Ogutu</td>
 </tr>
 <tr style="vertical-align:middle; background:#FCE4D6;">
@@ -60,19 +60,17 @@ Slides and other materials
 <tr>
 <td height="21">09:30 - 10:30</td>
 <td rowspan="3">B44 (1057)</td>
-<td width="485">Introduction to AI <br> 
-<a href="assets/adam.pdf">slides</a></td>
+<td width="485">Introduction to AI (<a href="assets/adam.pdf">slides</a>)</td>
 <td>Jonathon Hare, Adam Prugel-Bennett</td>
 </tr>
 <tr>
 <td height="21">10:30 - 11:30</td>
-<td width="485">Geospatial ML <br>
-<a href="assets/geospatial-ml.pdf">slides</a></td>
+<td width="485">Geospatial ML (<a href="assets/geospatial-ml.pdf">slides</a>)</td>
 <td>Jonathon Hare, Adam Prugel-Bennett</td>
 </tr>
 <tr>
 <td height="21">11:30 - 12:30</td>
-<td>Application of Geospatial AI <br> <a href="Geospatial_AI_Jadu_Monday.pdf">slides</a></td>
+<td>Application of Geospatial AI (<a href="Geospatial_AI_Jadu_Monday.pdf">slides</a>)</td>
 <td>Jadu Dash</td>
 </tr>
 <tr style="vertical-align:middle; background:#FCE4D6;">
