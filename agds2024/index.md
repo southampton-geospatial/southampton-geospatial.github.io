@@ -100,7 +100,7 @@ Slides and other materials
 <tr>
 <td height="36">09:30 - 10:30</td>
 <td rowspan="2">B44 (1057)</td>
-<td>Open source intelligence</td>
+<td>Open source intelligence (<a href="assets/geodata_osint-handout.pdf">slides</a>)</td>
 <td>Sarah Morris&nbsp;</td>
 </tr>
 <tr>
