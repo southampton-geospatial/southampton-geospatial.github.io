@@ -16,7 +16,7 @@ Slides and other materials
 <tr>
 <td height="21">09:10 - 09:30</td>
 <td rowspan="4">B44 (1057)</td>
-<td>Welcome and overview (<a href="Southampton_Geospatial_first_summer_school.pdf">slides</a>)</td>
+<td>Welcome and overview (<a href="assets/DAY1/Southampton_Geospatial_first_summer_school.pdf">slides</a>)</td>
 <td>Jadu Dash</td>
 </tr>
 <tr>
@@ -26,12 +26,12 @@ Slides and other materials
 </tr>
 <tr>
 <td height="21">10:30 - 11:30</td>
-<td>Mobile phones data (<a href="Slides_Mobile phone data for measuring mobility_Lai S.pdf">slides</a>)</td>
+<td>Mobile phones data (<a href="assets/DAY1/Slides_Mobile phone data for measuring mobility_Lai S.pdf">slides</a>)</td>
 <td>Shengjie Lai&nbsp;</td>
 </tr>
 <tr>
 <td height="21">11:30 - 12:30</td>
-<td>Earth Observation data (<a href="Satellite_Earth_Observation_Booker.pdf">slides</a>)</td>
+<td>Earth Observation data (<a href="assets/DAY1/Satellite_Earth_Observation_Booker.pdf">slides</a>)</td>
 <td>Booker Ogutu</td>
 </tr>
 <tr style="vertical-align:middle; background:#FCE4D6;">
@@ -60,17 +60,17 @@ Slides and other materials
 <tr>
 <td height="21">09:30 - 10:30</td>
 <td rowspan="3">B44 (1057)</td>
-<td width="485">Introduction to AI (<a href="assets/adam.pdf">slides</a>)</td>
+<td width="485">Introduction to AI (<a href="assets/DAY2/adam.pdf">slides</a>)</td>
 <td>Jonathon Hare, Adam Prugel-Bennett</td>
 </tr>
 <tr>
 <td height="21">10:30 - 11:30</td>
-<td width="485">Geospatial ML (<a href="assets/geospatial-ml.pdf">slides</a>)</td>
+<td width="485">Geospatial ML (<a href="assets/DAY2/geospatial-ml.pdf">slides</a>)</td>
 <td>Jonathon Hare, Adam Prugel-Bennett</td>
 </tr>
 <tr>
 <td height="21">11:30 - 12:30</td>
-<td>Application of Geospatial AI (<a href="Geospatial_AI_Jadu_Monday.pdf">slides</a>)</td>
+<td>Application of Geospatial AI (<a href="assets/DAY2/JD_Geospatial_AI.pdf">slides</a>)</td>
 <td>Jadu Dash</td>
 </tr>
 <tr style="vertical-align:middle; background:#FCE4D6;">
@@ -81,7 +81,10 @@ Slides and other materials
 <td width="91" height="45">13:30 - 16:30</td>
 <td>B44 (1061)</td>
 <td width="485">Research Showcase: <br/>
-	<a href="assets/Research_showcase_Summer_School_on_Advances_Geospatial_HP.pdf">Hugo's slides</a> <br/></td>
+	<a href="assets/DAY2/Research_showcase_Summer_School_on_Advances_Geospatial_HP.pdf">Hugo's slides</a> <br/>
+	<a href="assets/DAY2/EVCI_GeoData_Emberson.pdf">Chris's slides</a> <br/>
+	<a href="assets/DAY2/Cal Pols Soton Geospatial.pdf">Cal's slides</a> <br/>
+</td>
 <td width="281">Daniela Rivera Marin (online), Cal Pols, <br /> Hugo Putuhena, Chris Emberson</td>
 </tr>
 <tr>
@@ -100,12 +103,12 @@ Slides and other materials
 <tr>
 <td height="36">09:30 - 10:30</td>
 <td rowspan="2">B44 (1057)</td>
-<td>Open source intelligence (<a href="assets/geodata_osint-handout.pdf">slides</a>)</td>
+<td>Open source intelligence (<a href="assets/DAY3/geodata_osint-handout.pdf">slides</a>)</td>
 <td>Sarah Morris&nbsp;</td>
 </tr>
 <tr>
 <td height="21">10:30 - 11:30</td>
-<td>Geospatial Data Ethics</td>
+<td>Geospatial Data Ethics (<a href="assets/DAY3/AK_Ethics_AI.pdf">slides</a>)</td>
 <td width="281">Alexandra Karamitrou</td>
 </tr>
 <tr style="vertical-align:middle; background:#FCE4D6;">
@@ -131,12 +134,12 @@ Slides and other materials
 <tr>
 <td height="21">09:30 - 10:30</td>
 <td rowspan="3">B44 (1057)</td>
-<td>Geospatial data and tools for environmental sensing</td>
+<td>Geospatial data and tools for environmental sensing (<a href="assets/DAY4/BT_Geospatial_workshop.pdf">slides</a>)</td>
 <td>Blair Thornton</td>
 </tr>
 <tr>
 <td height="21">10:30 - 11:00</td>
-<td>Geospatial and machine learning to map displaced people&nbsp;</td>
+<td>Geospatial and machine learning to map displaced people&nbsp; (<a href="assets/DAY4/Sarchil_Displaced.pdf">slides</a>)</td>
 <td>Sarchil Qader&nbsp;</td>
 </tr>
 <tr>
