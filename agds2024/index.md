@@ -83,7 +83,8 @@ Slides and other materials
 <td width="485">Research Showcase: <br/>
 	<a href="assets/DAY2/Research_showcase_Summer_School_on_Advances_Geospatial_HP.pdf">Hugo's slides</a> <br/>
 	<a href="assets/DAY2/EVCI_GeoData_Emberson.pdf">Chris's slides</a> <br/>
-	<a href="assets/DAY2/Cal Pols Soton Geospatial.pdf">Cal's slides</a> <br/>
+	<a href="assets/DAY2/Cal Pols Soton Geospatial.pdf">Cal's slides</a> 
+	<a href="assets/DAY2/DRM.pdf">Cal's slides</a> <br/>
 </td>
 <td width="281">Daniela Rivera Marin (online), Cal Pols, <br /> Hugo Putuhena, Chris Emberson</td>
 </tr>
@@ -118,7 +119,7 @@ Slides and other materials
 <tr>
 <td width="91" height="21">13:30 - 16:30</td>
 <td>B44 (1061)&nbsp;</td>
-<td width="485">Demonstration of open-source GIS tools , GeoData (AH)</td>
+<td width="485">Demonstration of open-source GIS tools , GeoData (AH) (<a href="assets/DAY3/QGIS.pdf">slides</a>)</td>
 </tr>
 <tr>
 <td height="21">Evening</td>
